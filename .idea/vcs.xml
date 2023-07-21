@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Iots_devices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Iots_devices_new" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/iotaldgr/oc-tangle" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/iotaldgr/oc-tangle/explorer/explorer-src" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/iotaldgr/one-click-tangle" vcs="Git" />
