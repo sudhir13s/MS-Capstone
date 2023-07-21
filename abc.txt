@@ -1,0 +1,91 @@
+ [2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+50c3c9369967   mamclient         0.71%     2.547MiB / 1.941GiB   0.13%     13.1kB / 3.59kB   1.26MB / 0B   4
+76b0018930a6   node1             2.23%     48.56MiB / 1.941GiB   2.44%     29.7MB / 18.1MB   311kB / 0B    14
+385180b89fb9   spammer           1.96%     36.92MiB / 1.941GiB   1.86%     17.2MB / 8.34MB   24.9MB / 0B   14
+5fbba709b502   coo               0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+637e4de8633a   explorer-webapp   0.00%     6.008MiB / 1.941GiB   0.30%     8.41MB / 0B       4.28MB / 0B   7
+c165aeb3bc1f   explorer-api      0.09%     49.96MiB / 1.941GiB   2.51%     44.2MB / 18.9MB   45.9MB / 0B   13
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+50c3c9369967   mamclient         0.71%     2.547MiB / 1.941GiB   0.13%     13.1kB / 3.59kB   1.26MB / 0B   4
+76b0018930a6   node1             2.23%     48.56MiB / 1.941GiB   2.44%     29.7MB / 18.1MB   311kB / 0B    14
+385180b89fb9   spammer           1.96%     36.92MiB / 1.941GiB   1.86%     17.2MB / 8.34MB   24.9MB / 0B   14
+5fbba709b502   coo               0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+637e4de8633a   explorer-webapp   0.00%     6.008MiB / 1.941GiB   0.30%     8.41MB / 0B       4.28MB / 0B   7
+c165aeb3bc1f   explorer-api      0.09%     49.96MiB / 1.941GiB   2.51%     44.2MB / 18.9MB   45.9MB / 0B   13
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+50c3c9369967   mamclient         0.70%     2.547MiB / 1.941GiB   0.13%     13.1kB / 3.59kB   1.26MB / 0B   4
+76b0018930a6   node1             2.05%     48.56MiB / 1.941GiB   2.44%     29.7MB / 18.1MB   311kB / 0B    14
+385180b89fb9   spammer           1.82%     37.04MiB / 1.941GiB   1.86%     17.2MB / 8.34MB   24.9MB / 0B   14
+5fbba709b502   coo               0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+637e4de8633a   explorer-webapp   0.00%     6.008MiB / 1.941GiB   0.30%     8.41MB / 0B       4.28MB / 0B   7
+c165aeb3bc1f   explorer-api      0.07%     49.96MiB / 1.941GiB   2.51%     44.2MB / 18.9MB   45.9MB / 0B   13
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+50c3c9369967   mamclient         0.70%     2.547MiB / 1.941GiB   0.13%     13.1kB / 3.59kB   1.26MB / 0B   4
+76b0018930a6   node1             2.05%     48.56MiB / 1.941GiB   2.44%     29.7MB / 18.1MB   311kB / 0B    14
+385180b89fb9   spammer           1.82%     37.04MiB / 1.941GiB   1.86%     17.2MB / 8.34MB   24.9MB / 0B   14
+5fbba709b502   coo               0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+637e4de8633a   explorer-webapp   0.00%     6.008MiB / 1.941GiB   0.30%     8.41MB / 0B       4.28MB / 0B   7
+c165aeb3bc1f   explorer-api      0.07%     49.96MiB / 1.941GiB   2.51%     44.2MB / 18.9MB   45.9MB / 0B   13
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+50c3c9369967   mamclient         0.73%     2.547MiB / 1.941GiB   0.13%     13.1kB / 3.59kB   1.26MB / 0B   4
+76b0018930a6   node1             2.35%     48.56MiB / 1.941GiB   2.44%     29.7MB / 18.1MB   311kB / 0B    14
+385180b89fb9   spammer           1.58%     36.91MiB / 1.941GiB   1.86%     17.2MB / 8.34MB   24.9MB / 0B   14
+5fbba709b502   coo               0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+637e4de8633a   explorer-webapp   0.00%     6.008MiB / 1.941GiB   0.30%     8.41MB / 0B       4.28MB / 0B   7
+c165aeb3bc1f   explorer-api      0.05%     49.96MiB / 1.941GiB   2.51%     44.2MB / 18.9MB   45.9MB / 0B   13
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+50c3c9369967   mamclient         0.73%     2.547MiB / 1.941GiB   0.13%     13.1kB / 3.59kB   1.26MB / 0B   4
+76b0018930a6   node1             2.35%     48.56MiB / 1.941GiB   2.44%     29.7MB / 18.1MB   311kB / 0B    14
+385180b89fb9   spammer           1.58%     36.91MiB / 1.941GiB   1.86%     17.2MB / 8.34MB   24.9MB / 0B   14
+5fbba709b502   coo               0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+637e4de8633a   explorer-webapp   0.00%     6.008MiB / 1.941GiB   0.30%     8.41MB / 0B       4.28MB / 0B   7
+c165aeb3bc1f   explorer-api      0.05%     49.96MiB / 1.941GiB   2.51%     44.2MB / 18.9MB   45.9MB / 0B   13
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+50c3c9369967   mamclient         0.87%     2.547MiB / 1.941GiB   0.13%     13.1kB / 3.59kB   1.26MB / 0B   4
+76b0018930a6   node1             1.78%     48.56MiB / 1.941GiB   2.44%     29.7MB / 18.1MB   311kB / 0B    14
+385180b89fb9   spammer           1.15%     36.91MiB / 1.941GiB   1.86%     17.2MB / 8.34MB   24.9MB / 0B   14
+5fbba709b502   coo               0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+637e4de8633a   explorer-webapp   0.00%     6.008MiB / 1.941GiB   0.30%     8.41MB / 0B       4.28MB / 0B   7
+c165aeb3bc1f   explorer-api      0.05%     49.96MiB / 1.941GiB   2.51%     44.2MB / 18.9MB   45.9MB / 0B   13
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+50c3c9369967   mamclient         0.87%     2.547MiB / 1.941GiB   0.13%     13.1kB / 3.59kB   1.26MB / 0B   4
+76b0018930a6   node1             1.78%     48.56MiB / 1.941GiB   2.44%     29.7MB / 18.1MB   311kB / 0B    14
+385180b89fb9   spammer           1.15%     36.91MiB / 1.941GiB   1.86%     17.2MB / 8.34MB   24.9MB / 0B   14
+5fbba709b502   coo               0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+637e4de8633a   explorer-webapp   0.00%     6.008MiB / 1.941GiB   0.30%     8.41MB / 0B       4.28MB / 0B   7
+c165aeb3bc1f   explorer-api      0.05%     49.96MiB / 1.941GiB   2.51%     44.2MB / 18.9MB   45.9MB / 0B   13
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+50c3c9369967   mamclient         0.86%     2.547MiB / 1.941GiB   0.13%     13.1kB / 3.59kB   1.26MB / 0B   4
+76b0018930a6   node1             1.91%     48.56MiB / 1.941GiB   2.44%     29.7MB / 18.1MB   311kB / 0B    14
+385180b89fb9   spammer           1.95%     36.91MiB / 1.941GiB   1.86%     17.2MB / 8.34MB   24.9MB / 0B   14
+5fbba709b502   coo               0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+637e4de8633a   explorer-webapp   0.00%     6.008MiB / 1.941GiB   0.30%     8.41MB / 0B       4.28MB / 0B   7
+c165aeb3bc1f   explorer-api      0.09%     49.96MiB / 1.941GiB   2.51%     44.2MB / 18.9MB   45.9MB / 0B   13
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+50c3c9369967   mamclient         0.86%     2.547MiB / 1.941GiB   0.13%     13.1kB / 3.59kB   1.26MB / 0B   4
+76b0018930a6   node1             1.91%     48.56MiB / 1.941GiB   2.44%     29.7MB / 18.1MB   311kB / 0B    14
+385180b89fb9   spammer           1.95%     36.91MiB / 1.941GiB   1.86%     17.2MB / 8.34MB   24.9MB / 0B   14
+5fbba709b502   coo               0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+637e4de8633a   explorer-webapp   0.00%     6.008MiB / 1.941GiB   0.30%     8.41MB / 0B       4.28MB / 0B   7
+c165aeb3bc1f   explorer-api      0.09%     49.96MiB / 1.941GiB   2.51%     44.2MB / 18.9MB   45.9MB / 0B   13
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+50c3c9369967   mamclient         0.71%     2.547MiB / 1.941GiB   0.13%     13.1kB / 3.59kB   1.26MB / 0B   4
+76b0018930a6   node1             2.04%     48.56MiB / 1.941GiB   2.44%     29.7MB / 18.1MB   311kB / 0B    14
+385180b89fb9   spammer           1.93%     36.91MiB / 1.941GiB   1.86%     17.2MB / 8.34MB   24.9MB / 0B   14
+5fbba709b502   coo               0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+637e4de8633a   explorer-webapp   0.00%     6.008MiB / 1.941GiB   0.30%     8.41MB / 0B       4.28MB / 0B   7
+c165aeb3bc1f   explorer-api      0.08%     49.96MiB / 1.941GiB   2.51%     44.2MB / 18.9MB   45.9MB / 0B   13
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+50c3c9369967   mamclient         0.71%     2.547MiB / 1.941GiB   0.13%     13.1kB / 3.59kB   1.26MB / 0B   4
+76b0018930a6   node1             2.04%     48.56MiB / 1.941GiB   2.44%     29.7MB / 18.1MB   311kB / 0B    14
+385180b89fb9   spammer           1.93%     36.91MiB / 1.941GiB   1.86%     17.2MB / 8.34MB   24.9MB / 0B   14
+5fbba709b502   coo               0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+637e4de8633a   explorer-webapp   0.00%     6.008MiB / 1.941GiB   0.30%     8.41MB / 0B       4.28MB / 0B   7
+c165aeb3bc1f   explorer-api      0.08%     49.96MiB / 1.941GiB   2.51%     44.2MB / 18.9MB   45.9MB / 0B   13
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+50c3c9369967   mamclient         0.84%     2.547MiB / 1.941GiB   0.13%     13.1kB / 3.59kB   1.26MB / 0B   4
+76b0018930a6   node1             2.29%     48.56MiB / 1.941GiB   2.44%     29.7MB / 18.1MB   311kB / 0B    14
+385180b89fb9   spammer           1.76%     36.91MiB / 1.941GiB   1.86%     17.2MB / 8.34MB   24.9MB / 0B   14
+5fbba709b502   coo               0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+637e4de8633a   explorer-webapp   0.00%     6.008MiB / 1.941GiB   0.30%     8.41MB / 0B       4.28MB / 0B   7
+c165aeb3bc1f   explorer-api      0.06%     49.96MiB / 1.941GiB   2.51%     44.2MB / 18.9MB   45.9MB / 0B   13
